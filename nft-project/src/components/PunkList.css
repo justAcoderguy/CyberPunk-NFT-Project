@@ -1,7 +1,7 @@
 .punkList{
     cursor: pointer;
     display: flex;
-    overflow: scroll;
+    overflow-x: auto;
     margin-top: 20px;
     padding-bottom: 20px;
 }
